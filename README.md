@@ -1,7 +1,7 @@
 # Leaflet - acceso al DOM y manejo de eventos
 
 ## El *Document Object Model* (DOM)
-El [*Document Object Model* (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) es una representación jerárquica de los objetos que componen una página web. Es también una interfaz de programación que permite que un programador tenga acceso para leer y modificar los elementos, atributos, estilos y eventos de un documento HTML.
+El [*Document Object Model* (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) es una representación jerárquica de los objetos que componen una página web. Es también una interfaz de programación que brinda acceso para leer y modificar los elementos, atributos, estilos y eventos de un documento HTML.
 
 La estructura jerárquica del DOM se ilustra en la figura 1.
 
@@ -17,7 +17,7 @@ La estructura jerárquica del DOM se ilustra en la figura 1.
 <p>
   
 ### Eventos
-Los nodos del DOM pueden estar asociados con [eventos](https://developer.mozilla.org/en-US/docs/Web/Events). Los eventos son acciones que se activan con la ocurrencia de sucesos como, por ejemplo, terminar la carga de una página web, llenar un campo de entrada de datos o presionar un botón. Por ejemplo:
+Los nodos (i.e. elementos HTML) del DOM pueden estar asociados con [eventos](https://developer.mozilla.org/en-US/docs/Web/Events). Los eventos son acciones que se activan con la ocurrencia de sucesos como, por ejemplo, terminar la carga de una página web, llenar un campo de entrada de datos o presionar un botón. Por ejemplo:
   
 ```html
 <button type="button" onclick="alert('¡Hola mundo!');">
