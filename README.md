@@ -15,3 +15,20 @@ La estructura jerárquica del DOM se ilustra en la figura 1.
     </figcaption>
   </figure>  
 <p>
+  
+### Eventos
+Los nodos del DOM pueden estar asociados con [eventos](https://developer.mozilla.org/en-US/docs/Web/Events). Los eventos son acciones que se activan con la ocurrencia de sucesos como, por ejemplo, terminar la carga de una página web, llenar un campo de entrada de datos o presionar un botón. Por ejemplo:
+  
+```html
+<button type="button" onclick="alert('¡Hola mundo!');">
+    Hola mundo
+</button>
+```
+
+### Ejemplo de acceso al DOM y manejo de eventos mediante JavaScript
+1. Observe el [ejemplo en CodePen](https://codepen.io/mfvargas/pen/rzKggx).  
+2. Si es necesario, [abra una cuenta gratuita en CodePen](https://codepen.io/accounts/signup/user/free).  
+3. Realice un *fork* del *pen* hacia su cuenta.  
+4. Ejecute el código y observe los resultados.
+
+  
