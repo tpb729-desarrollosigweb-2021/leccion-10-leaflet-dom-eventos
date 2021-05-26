@@ -31,4 +31,8 @@ Los nodos (i.e. elementos HTML) del DOM pueden estar asociados con [eventos](htt
 3. Realice un *fork* del *pen* hacia su cuenta.  
 4. Ejecute el código y observe los resultados.
 
-  
+### Ejemplo aplicado en un mapa Leaflet  
+Puede ver un ejemplo de como se accede al DOM y se manejan eventos en JavaScript para controlar la opacidad de una capa raster en [https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-dom-eventos/](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-dom-eventos/).
+
+**Ejercicios**  
+1. Agregue un control de opacidad para otra capa raster.
