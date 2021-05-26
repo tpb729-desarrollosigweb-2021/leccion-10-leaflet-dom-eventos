@@ -7,7 +7,7 @@ La estructura jerárquica del DOM se ilustra en la figura 1.
 
 <p>
   <figure>
-    <img src="img/dom.png" width="100" alt="DOM">
+    <img src="img/dom.png" alt="DOM">
     <figcaption>
       <small>
         <strong>Figura 1.</strong> El Document Object Model (DOM). Fuente: <a href="https://commons.wikimedia.org/wiki/File:DOM-model.svg">Birger Eriksson</a>.
